@@ -1,5 +1,7 @@
 # 리액트를 이용한 웹 사이트 만들기
 리액트 사이트 제작
+컴ㅂ퍼넌트 및 props를 이용하여 사이트를 만들고 구성합니다.
+사당돔(Virtual DOM), 컴포넌트 기반, 데이터 처리, JSX를 이용하여 작업하였습니다.
 
 ## 설치
 1. Github에서 New repository를 생성 후 Clone폴더를 생성함
@@ -20,3 +22,4 @@
 - 'App.js'에서 'Main' 세부파트는 'src / components'에 각 파일을 만들어 작업('assets / css'에 각 css를 옮기고 'card.jsx'에 이미지를 불러올때 import시켜서 가져옴)
 - 'App.js'에서 proos기능을 사용하여 className에 element, fonnts를 전달함
 - 반복적인 작업이 가능한 'Card.jsx'와 'Text.jsx'에서는 배열을 생성 후 map()매서드를 활용하여 작업함
+- netlify.com에 github를 연결하여 업로드함
